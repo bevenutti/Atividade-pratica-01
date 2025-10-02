@@ -38,6 +38,17 @@
     text-transform: uppercase;
 }
 
+.section-image{
+    padding: 200px; 
+    background-image: url(Imagens/RESORT\ 1.jpeg); 
+    background-attachment: fixed; 
+    background-position: center top; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+}
+
 .section-01{
     background-color: #9e0004;
     display: flex; 
